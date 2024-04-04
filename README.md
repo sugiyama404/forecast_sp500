@@ -17,8 +17,8 @@
 + LSTM
 + GRU
 + CNN-LSTM
-+ LSTM-ResNet
 + ResNet
++ LSTM-ResNet
 + Transformer
 + TIMESNET
 
