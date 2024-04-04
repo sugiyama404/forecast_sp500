@@ -34,7 +34,7 @@ S&P500 日足終値データ
 + GRU: [LSTM、GRUモデルを用いた株式相場予想](https://qiita.com/sugiyama404/items/9287b062dd1a69e1f7dc)
 + CNN-LSTM: [CNN-LSTMモデルを用いた株式相場予想](https://qiita.com/sugiyama404/items/49420557981b399acdf8)
 + ResNet: [ResNetモデルを用いた株式相場予想](https://qiita.com/sugiyama404/items/1a7845a5e1344110a7f6)
-+ Transformer: [Transformerを用いた時系列分析](https://qiita.com/sugiyama404/items/2aeff36f8bf252b734ea)
++ Transformer: [Transformerモデルを用いた株式相場予想](https://qiita.com/sugiyama404/items/2aeff36f8bf252b734ea)
 + TIMESNET: [TIMESNETモデルを用いた株式相場予想](https://qiita.com/sugiyama404/items/630845965558b03514fc)
 
 ## 注意事項
